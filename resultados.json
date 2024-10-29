@@ -1,0 +1,8 @@
+{
+  "{1=Persona{nombre='franco', Apellido='soria', edad=28, barrio='fortunato', dni=22345678}, 2=Persona{nombre='lucas', Apellido='galarce', edad=22, barrio='las heras', dni=11112222}, 4=Persona{nombre='marcos', Apellido='ortiz', edad=48, barrio='los troncos', dni=15556666}}": {
+    "3": {
+      "dni": 33334444,
+      "temp": 39.0
+    }
+  }
+}
